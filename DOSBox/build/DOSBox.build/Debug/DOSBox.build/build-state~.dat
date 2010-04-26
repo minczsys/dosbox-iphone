@@ -1,0 +1,155 @@
+TDOSBox
+v7
+r1
+
+N/Users/mike/Programs/DOSBoxiPhone/DOSBox/../dosbox-0.73 2/src/dosbox.ico
+c0000000045A5012000000000000147FE
+t1168441632
+s83966
+
+N/Users/mike/Programs/DOSBoxiPhone/DOSBox/../dosbox-0.73 2/src/hardware/serialport/Makefile.am
+c0000000045A899E50000000000000198
+t1168677349
+s408
+
+N/Users/mike/Programs/DOSBoxiPhone/DOSBox/../dosbox-0.73 2/src/hardware/serialport/Makefile.in
+c000000004A144BF20000000000003529
+t1242844146
+s13609
+
+N/Users/mike/Programs/DOSBoxiPhone/DOSBox/../dosbox-0.73 2/src/libs/gui_tk/Makefile.am
+c000000004724B9BE0000000000000070
+t1193589182
+s112
+
+N/Users/mike/Programs/DOSBoxiPhone/DOSBox/../dosbox-0.73 2/src/libs/gui_tk/Makefile.in
+c000000004A144BF30000000000003117
+t1242844147
+s12567
+
+N/Users/mike/Programs/DOSBoxiPhone/DOSBox/../dosbox-0.73 2/src/libs/zmbv/Makefile.am
+c0000000044283A67000000000000001D
+t1143487079
+s29
+
+N/Users/mike/Programs/DOSBoxiPhone/DOSBox/../dosbox-0.73 2/src/libs/zmbv/Makefile.in
+c000000004A144BF300000000000021AA
+t1242844147
+s8618
+
+N/Users/mike/Programs/DOSBoxiPhone/DOSBox/../dosbox-0.73 2/src/platform/sdl-win32.diff
+c0000000046CA99F600000000000007FA
+t1187682806
+s2042
+
+N/Users/mike/Programs/DOSBoxiPhone/DOSBox/../dosbox-0.73 2/src/winres.rc
+c0000000049F4B74900000000000003B2
+t1240774473
+s946
+
+N/Users/mike/Programs/DOSBoxiPhone/DOSBox/Resources/Default.png
+c000000004B0F130300000000000077AB
+t1259279107
+s30635
+
+N/Users/mike/Programs/DOSBoxiPhone/DOSBox/Resources/Icon.png
+c000000004B0F1303000000000000246F
+t1259279107
+s9327
+
+N/Users/mike/Programs/DOSBoxiPhone/DOSBox/Resources/fps_images.png
+c000000004B0F1303000000000000183B
+t1259279107
+s6203
+
+N/Users/mike/Programs/DOSBoxiPhone/DOSBox/build/Debug/DOSBox.app
+t2
+s0
+
+N/Users/mike/Programs/DOSBoxiPhone/DOSBox/build/Debug/DOSBox.app/Contents/Info.plist
+t2
+s0
+
+N/Users/mike/Programs/DOSBoxiPhone/DOSBox/build/Debug/DOSBox.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/mike/Programs/DOSBoxiPhone/DOSBox/build/Debug/DOSBox.app/Contents/Resources/Default.png
+t2
+s0
+
+N/Users/mike/Programs/DOSBoxiPhone/DOSBox/build/Debug/DOSBox.app/Contents/Resources/Icon.png
+t2
+s0
+
+N/Users/mike/Programs/DOSBoxiPhone/DOSBox/build/Debug/DOSBox.app/Contents/Resources/Makefile.am
+t2
+s0
+
+N/Users/mike/Programs/DOSBoxiPhone/DOSBox/build/Debug/DOSBox.app/Contents/Resources/Makefile.in
+t2
+s0
+
+N/Users/mike/Programs/DOSBoxiPhone/DOSBox/build/Debug/DOSBox.app/Contents/Resources/dosbox.ico
+t2
+s0
+
+N/Users/mike/Programs/DOSBoxiPhone/DOSBox/build/Debug/DOSBox.app/Contents/Resources/fps_images.png
+t2
+s0
+
+N/Users/mike/Programs/DOSBoxiPhone/DOSBox/build/Debug/DOSBox.app/Contents/Resources/sdl-win32.diff
+t2
+s0
+
+N/Users/mike/Programs/DOSBoxiPhone/DOSBox/build/Debug/DOSBox.app/Contents/Resources/winres.rc
+t2
+s0
+
+NResources/Info.plist
+c000000004B0F13030000000000000306
+t1259279107
+s774
+
+CCpResource build/Debug/DOSBox.app/Contents/Resources/Default.png Resources/Default.png
+r0
+
+CCpResource build/Debug/DOSBox.app/Contents/Resources/Icon.png Resources/Icon.png
+r0
+
+CCpResource build/Debug/DOSBox.app/Contents/Resources/Makefile.am "../dosbox-0.73 2/src/hardware/serialport/Makefile.am"
+r0
+
+CCpResource build/Debug/DOSBox.app/Contents/Resources/Makefile.am "../dosbox-0.73 2/src/libs/gui_tk/Makefile.am"
+r0
+
+CCpResource build/Debug/DOSBox.app/Contents/Resources/Makefile.am "../dosbox-0.73 2/src/libs/zmbv/Makefile.am"
+r0
+
+CCpResource build/Debug/DOSBox.app/Contents/Resources/Makefile.in "../dosbox-0.73 2/src/hardware/serialport/Makefile.in"
+r0
+
+CCpResource build/Debug/DOSBox.app/Contents/Resources/Makefile.in "../dosbox-0.73 2/src/libs/gui_tk/Makefile.in"
+r0
+
+CCpResource build/Debug/DOSBox.app/Contents/Resources/Makefile.in "../dosbox-0.73 2/src/libs/zmbv/Makefile.in"
+r0
+
+CCpResource build/Debug/DOSBox.app/Contents/Resources/dosbox.ico "../dosbox-0.73 2/src/dosbox.ico"
+r0
+
+CCpResource build/Debug/DOSBox.app/Contents/Resources/fps_images.png Resources/fps_images.png
+r0
+
+CCpResource build/Debug/DOSBox.app/Contents/Resources/sdl-win32.diff "../dosbox-0.73 2/src/platform/sdl-win32.diff"
+r0
+
+CCpResource build/Debug/DOSBox.app/Contents/Resources/winres.rc "../dosbox-0.73 2/src/winres.rc"
+r0
+
+CProcessInfoPlistFile /Users/mike/Programs/DOSBoxiPhone/DOSBox/build/Debug/DOSBox.app/Contents/Info.plist Resources/Info.plist
+r0
+
+CTouch /Users/mike/Programs/DOSBoxiPhone/DOSBox/build/Debug/DOSBox.app
+r0
+
